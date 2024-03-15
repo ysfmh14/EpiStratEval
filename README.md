@@ -3,12 +3,13 @@ Ce projet consiste en un tableau de bord interactif développé avec Dash et Fol
 ## Prérequis
 Avant de commencer, assurez-vous d'avoir installé Python et les bibliothèques suivantes :
 
--Dash
--Folium
--Pandas
--Inflect
--Flask
--Dash Bootstrap Components
+- Dash
+- Folium
+- Pandas
+- Inflect
+- Flask
+- Dash Bootstrap Components
+  
 Vous pouvez installer ces bibliothèques à l'aide de pip :
 ```python
 pip install dash folium pandas inflect Flask dash-bootstrap-components
