@@ -28,10 +28,11 @@ python app.py
 ```
 Ouvrez votre navigateur et accédez à l'URL http://127.0.0.1:8060/ pour voir le tableau de bord.
 ## Fonctionnalités
-Affichage des données de localisation et de propagation des maladies sur une carte interactive.
-Sélection de pays et de dates pour filtrer les données affichées.
-Téléchargement des données filtrées au format Excel.
-Gestion des validations des localisations et des articles via des boutons interactifs.
+- Affichage des positions des détections des maladies sur une carte interactive.
+- Filtre des données par pays et/ou par fenêtre temporelle.
+- Affichage de la liste des hôtes extraits.
+- Rafraîchissement des données en cas de modification.
+- Chargement de fichiers contenant des données déjà évaluées.
 ## Structure du projet
 app.py : Fichier principal contenant le code de l'application Dash.
 README.md : Documentation du projet (vous êtes en train de le lire !).
