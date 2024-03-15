@@ -2,6 +2,7 @@
 Ce projet consiste en un tableau de bord interactif développé avec Dash et Folium. Son but est de fournir une plateforme permettant la visualisation et l'analyse des données relatives aux maladies, ainsi que de permettre l'évaluation des différentes stratégies d'extraction d'informations spatiales utilisées pour la veille épidémiologique.
 ## Prérequis
 Avant de commencer, assurez-vous d'avoir installé Python et les bibliothèques suivantes :
+
 -Dash
 -Folium
 -Pandas
