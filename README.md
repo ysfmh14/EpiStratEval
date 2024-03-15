@@ -2,13 +2,12 @@
 Ce projet consiste en un tableau de bord interactif développé avec Dash et Folium. Son but est de fournir une plateforme permettant la visualisation et l'analyse des données relatives aux maladies, ainsi que de permettre l'évaluation des différentes stratégies d'extraction d'informations spatiales utilisées pour la veille épidémiologique.
 ## Prérequis
 Avant de commencer, assurez-vous d'avoir installé Python et les bibliothèques suivantes :
-
-Dash
-Folium
-Pandas
-Inflect
-Flask
-Dash Bootstrap Components
+-Dash
+-Folium
+-Pandas
+-Inflect
+-Flask
+-Dash Bootstrap Components
 Vous pouvez installer ces bibliothèques à l'aide de pip :
 ```python
 pip install dash folium pandas inflect Flask dash-bootstrap-components
@@ -34,8 +33,8 @@ Ouvrez votre navigateur et accédez à l'URL http://127.0.0.1:8060/ pour voir le
 - Rafraîchissement des données en cas de modification.
 - Chargement de fichiers contenant des données déjà évaluées.
 ## Structure du projet
-app.py : Fichier principal contenant le code de l'application Dash.\n
-README.md : Documentation du projet (vous êtes en train de le lire !).
+- app.py : Fichier principal contenant le code de l'application Dash.
+- README.md : Documentation du projet (vous êtes en train de le lire !).
 ## Contribuer
 Les contributions sont les bienvenues ! Pour contribuer à ce projet, suivez ces étapes :
 
