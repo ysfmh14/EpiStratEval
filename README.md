@@ -1,6 +1,5 @@
 # EpiStrat-Eval: outil d’évaluation des stratégies d’extraction d’informations spatiales pour la veille en épidémiologie
-Ce projet est un tableau de bord interactif construit avec Dash et Folium pour visualiser et analyser les données relatives aux maladies et à leur propagation dans différentes localisations.
-
+Ce projet consiste en un tableau de bord interactif développé avec Dash et Folium. Son but est de fournir une plateforme permettant la visualisation et l'analyse des données relatives aux maladies, ainsi que de permettre l'évaluation des différentes stratégies d'extraction d'informations spatiales utilisées pour la veille épidémiologique.
 ## Prérequis
 Avant de commencer, assurez-vous d'avoir installé Python et les bibliothèques suivantes :
 
@@ -33,11 +32,9 @@ Affichage des données de localisation et de propagation des maladies sur une ca
 Sélection de pays et de dates pour filtrer les données affichées.
 Téléchargement des données filtrées au format Excel.
 Gestion des validations des localisations et des articles via des boutons interactifs.
-Structure du projet
+## Structure du projet
 app.py : Fichier principal contenant le code de l'application Dash.
 README.md : Documentation du projet (vous êtes en train de le lire !).
-location_extracted_information_S2.xlsx : Fichier de données contenant les informations sur les maladies (échantillon 1).
-location_extracted_information_S5.xlsx : Fichier de données contenant les informations sur les maladies (échantillon 2).
 ## Contribuer
 Les contributions sont les bienvenues ! Pour contribuer à ce projet, suivez ces étapes :
 
