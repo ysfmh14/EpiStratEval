@@ -34,8 +34,8 @@ Sélection de pays et de dates pour filtrer les données affichées.
 Téléchargement des données filtrées au format Excel.
 Gestion des validations des localisations et des articles via des boutons interactifs.
 Structure du projet
-### app.py : Fichier principal contenant le code de l'application Dash.
-### README.md : Documentation du projet (vous êtes en train de le lire !).
+app.py : Fichier principal contenant le code de l'application Dash.
+README.md : Documentation du projet (vous êtes en train de le lire !).
 location_extracted_information_S2.xlsx : Fichier de données contenant les informations sur les maladies (échantillon 1).
 location_extracted_information_S5.xlsx : Fichier de données contenant les informations sur les maladies (échantillon 2).
 ## Contribuer
@@ -47,3 +47,7 @@ Committez vos modifications (git commit -am 'Ajouter une nouvelle fonctionnalit�
 Push votre branche sur GitHub (git push origin feature/NomDeLaFonctionnalité).
 Créez une nouvelle demande d'extraction sur GitHub.
 ## Auteur
+- Youssef MAHDOUBI
+- Sarah VALENTIN
+- Najlae IDRISSI
+- Mathieu ROCHE
