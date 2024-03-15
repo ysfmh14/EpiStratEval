@@ -34,16 +34,16 @@ Ouvrez votre navigateur et accédez à l'URL http://127.0.0.1:8060/ pour voir le
 - Rafraîchissement des données en cas de modification.
 - Chargement de fichiers contenant des données déjà évaluées.
 ## Structure du projet
-app.py : Fichier principal contenant le code de l'application Dash.
+app.py : Fichier principal contenant le code de l'application Dash.\n
 README.md : Documentation du projet (vous êtes en train de le lire !).
 ## Contribuer
 Les contributions sont les bienvenues ! Pour contribuer à ce projet, suivez ces étapes :
 
-Effectuez un fork du dépôt.
-Créez une branche pour votre fonctionnalité (git checkout -b feature/NomDeLaFonctionnalité).
-Committez vos modifications (git commit -am 'Ajouter une nouvelle fonctionnalité').
-Push votre branche sur GitHub (git push origin feature/NomDeLaFonctionnalité).
-Créez une nouvelle demande d'extraction sur GitHub.
+- Effectuez un fork du dépôt.
+- Créez une branche pour votre fonctionnalité (git checkout -b feature/NomDeLaFonctionnalité).
+- Committez vos modifications (git commit -am 'Ajouter une nouvelle fonctionnalité').
+- Push votre branche sur GitHub (git push origin feature/NomDeLaFonctionnalité).
+- Créez une nouvelle demande d'extraction sur GitHub.
 ## Auteur
 - Youssef MAHDOUBI
 - Sarah VALENTIN
